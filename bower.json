@@ -24,5 +24,7 @@
   ],
   "dependencies": {
     "lodash": "~2.4.1"
-  }
+  },
+  "homepage": "https://github.com/xnfa/lodash-import",
+  "main": "lodash.js.html"
 }
